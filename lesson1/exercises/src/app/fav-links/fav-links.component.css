@@ -1,0 +1,18 @@
+.favLinks{
+    text-align: center;
+    display: inline;
+}
+
+p{
+    padding: 0px;
+    margin: 0px;
+}
+
+a{
+    color: indigo;
+}
+
+a:hover{
+    color: maroon;
+    font-size: 1.2rem;
+}

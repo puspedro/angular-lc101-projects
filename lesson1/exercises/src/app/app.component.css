@@ -1,0 +1,27 @@
+.container{
+    max-width: 1024px;
+    background-color: rgb(242, 242, 250);
+}
+
+.row div{
+    text-align: center;
+    margin: 10px;
+    box-sizing: border-box;
+    /* max-width: 100%; */
+}
+
+.col-3{
+    padding: 10px;
+    float: left;
+    max-width: 33.33%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .link {
+      height: 100px;
+  }

@@ -1,0 +1,15 @@
+.chores{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    text-align: left;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(201, 153, 20);
+    font-style: italic;
+}
