@@ -16,3 +16,8 @@ img {
     display: block;
     margin: auto;
 }
+
+.target{
+    color: green;
+    text-align: center;
+}
